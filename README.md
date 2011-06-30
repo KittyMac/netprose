@@ -3,7 +3,7 @@ About
 
 netprose is a simple command-line tool for displaying network traffic information in a terminal.
 
-<img href="https://raw.github.com/KittyMac/netprose/master/netprose.png">
+![Alt text](https://raw.github.com/KittyMac/netprose/master/netprose.png "Netprose Screenshot")
 
 Howto
 =====
@@ -18,4 +18,5 @@ software whatever you like, provided that you keep the copyright notice and
 the license text along.
 
 [license]: http://www.opensource.org/licenses/mit-license.php
+
 
